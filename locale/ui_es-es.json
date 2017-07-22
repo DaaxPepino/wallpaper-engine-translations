@@ -10,8 +10,8 @@
 	"ui_retry" : "Reintentar",
 	
 	"ui_modal_updaterequired_title" : "Wallpaper Engine necesita ser actualizado",
-	"ui_modal_updaterequired_body" : "Por favor cierra Wallpaper Engine (Click derecho en el icono en area de notificación y Salir) y abrelo con Steam para recibir las últimas actualizaciones. Si sigues recibiendo esta advertencia, por favor utiliza la herramienta de Steam para verificar la integridad de caché.<br/><br/>Versión de aplicación: <b>{{callerVersion}}</b>, Versión de interfaz: <b>{{appVersion}}</b>.",
-	"ui_modal_updateavailable_title" : "Nueva Actualización Disponibe",
+	"ui_modal_updaterequired_body" : "Por favor cierra Wallpaper Engine (click derecho en el icono en area de notificación y salir) y abrelo con Steam para recibir las últimas actualizaciones. Si sigues recibiendo esta advertencia, por favor utiliza la herramienta de Steam para verificar la integridad de caché.<br/><br/>Versión de aplicación: <b>{{callerVersion}}</b>, Versión de interfaz: <b>{{appVersion}}</b>.",
+	"ui_modal_updateavailable_title" : "Nueva actualización disponibe",
 	"ui_modal_updateavailable_body_distro" : "Steam ha descargado una nueva actualización para Wallpaper Engine (versión <b>{{distroVersion}}</b>). Te gustaría reiniciar Wallpaper Engine ahora para aplicar la actualización?",
 	
 	"ui_browse_monitor" : "Monitor",
@@ -62,7 +62,7 @@
 	"ui_browse_sort_name" : "Nombre",
 	"ui_browse_sort_rating" : "Calificación",
 	"ui_browse_sort_favorite" : "Favorito",
-	"ui_browse_sort_filesize" : "Tamaño",
+	"ui_browse_sort_filesize" : "Tamaño del archivo",
 	"ui_browse_sort_subscription_date" : "Fecha",
 	"ui_browse_sort_last_updated" : "Última actualización",
 	
@@ -100,7 +100,7 @@
 	"ui_browse_properties_alignment_position" : "<span class='fa fa-arrows-h propertyIcon'></span>Posición",
 	
 	"ui_browse_playlist_header" : "Lista de reproducción",
-	"ui_browse_playlist_modal_open_header" : "Abrir lista de reprucción",
+	"ui_browse_playlist_modal_open_header" : "Abrir lista de reproducción",
 	"ui_browse_playlist_modal_open_delete" : "Borrar",
 	"ui_browse_playlist_modal_save_header" : "Guardar lista de reproducción",
 	"ui_browse_playlist_modal_save_name" : "Nombre", 
@@ -135,15 +135,15 @@
 	
 	"ui_browse_query_sort_by_votes" : "Más Votados",
 	"ui_browse_query_sort_by_date" : "Más Recientes",
-	"ui_browse_query_sort_by_trend_today" : "Más Populares (Hoy)",
-	"ui_browse_query_sort_by_trend_last_week" : "Más Populares (Semana)",
-	"ui_browse_query_sort_by_trend_last_month" : "Más Populares (Mes)",
-	"ui_browse_query_sort_by_trend_year" : "Más Populares (Año)",
-	"ui_browse_query_sort_friends_favorites" : "Favoritos de Amigos",
-	"ui_browse_query_sort_friends_created" : "Creados por Amigos",
-	"ui_browse_query_sort_by_followed_users" : "Creados por los Usuarios que sigues",
-	"ui_browse_query_sort_most_up_votes" : "Mejor Votados",
-	"ui_browse_query_sort_most_subscriptions" : "Más Suscritos",
+	"ui_browse_query_sort_by_trend_today" : "Más populares (hoy)",
+	"ui_browse_query_sort_by_trend_last_week" : "Más populares (semana)",
+	"ui_browse_query_sort_by_trend_last_month" : "Más populares (mes)",
+	"ui_browse_query_sort_by_trend_year" : "Más populares (año)",
+	"ui_browse_query_sort_friends_favorites" : "Favoritos de amigos",
+	"ui_browse_query_sort_friends_created" : "Creados por amigos",
+	"ui_browse_query_sort_by_followed_users" : "Creados por los usuarios que sigues",
+	"ui_browse_query_sort_most_up_votes" : "Mejor votados",
+	"ui_browse_query_sort_most_subscriptions" : "Más suscritos",
 	
 	"ui_settings_playback": "Reproducción",
 	"ui_settings_playback_focused" : "Otra aplicación enfocada:",
